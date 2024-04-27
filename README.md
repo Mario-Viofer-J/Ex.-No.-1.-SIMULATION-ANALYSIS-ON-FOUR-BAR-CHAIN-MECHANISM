@@ -56,7 +56,8 @@
 
 
 ## Output:
-![alt text](<Screenshot 2024-04-13 132832.png>)
+![image](https://github.com/Mario-Viofer-J/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979232/98eedde3-2d9b-4f02-8efe-b9424b045ac4)
+
 
 ### Name: MARIO VIOFER J
 ### Register Number: 212223100032
