@@ -1,6 +1,9 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 27/04/2024
+
+### Developed by   : MARIO VIOFER J
+### Register Number: 212223100032
 
 ## AIM:
 
@@ -53,10 +56,10 @@
 
 
 ## Output:
+![alt text](<Screenshot 2024-04-13 132832.png>)
 
-
-### Name:
-### Register Number: 
+### Name: MARIO VIOFER J
+### Register Number: 212223100032
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
